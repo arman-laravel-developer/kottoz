@@ -163,8 +163,6 @@
         margin-bottom: 5px;
     }
     .product-images-slider-outer .slider-content img {
-        height: 150px!important;
-        max-width: 150px;
         margin: auto;
     }
     .product-images-slider-outer .slider-thumb img {
